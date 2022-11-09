@@ -19,7 +19,6 @@ import {
   getLedgerWallet,
   getSafePalWallet,
 } from "@solana/wallet-adapter-wallets";
-<link href="https://fonts.cdnfonts.com/css/mexon" rel="stylesheet" />
 import TopNav from "./components/TopNav";
 import { CurrencyProvider } from "./components/Currency";
 import Marketplace from "./views/Marketplace";
