@@ -21,9 +21,9 @@ const CurrencyContext = createContext<CurrencyType>({
   getCurrencySettings: () => {},
   currencyOptions: [
     {
-      currencySymbol: "SOL",
-      treasuryMint: "So11111111111111111111111111111111111111112",
-      currencyDecimals: 9,
+      currencySymbol: "USDC",
+      treasuryMint: "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      currencyDecimals: 6,
       priceDecimals: 3,
       volumeDecimals: 1,
       mainnetConnectionUrl: RPC_HOST,
