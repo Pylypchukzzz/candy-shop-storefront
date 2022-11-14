@@ -67,8 +67,8 @@ const theme = createTheme({
 const currencyOptions = [
   {
     
-    currencySymbol: "SOL",
-    treasuryMint: "So11111111111111111111111111111111111111112",
+    currencySymbol: "USDC",
+    treasuryMint: "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     currencyDecimals: 9,
     priceDecimals: 3,
     volumeDecimals: 1,
